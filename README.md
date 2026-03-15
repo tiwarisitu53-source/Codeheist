@@ -1,6 +1,6 @@
 🌿 Mental Health Support Hub (By Team CodeHeist)
 
-https://v0.app/chat/mental-health-hub-login-qfstJ1vIH4D?ref=8T0GZS
+https://v0-mental-health-hub-ten.vercel.app/
 
 ​A calming digital sanctuary for students. This project focuses on emotional well-being through minimalist design and accessible tracking tools.
 
